@@ -1,87 +1,28 @@
-# Project Title
+#Titanic Survivors - An exercise in machine learning
+### CS 634 - Prof Monogioudis
 
-One Paragraph of project description goes here
+## Overview
+We will utilize the methods of machine learning to predict the sale price for houses based on the Ames data set. This project as an applied exercise in data engineering and data science, specifically utilising the tools of feature selection, feature engineering, and modeling through linear regression. While we explore a number of different methodologies, we found the following techniques to have the highest yield. Refer to the python notebook for specific details on our methods. 
 
-## Getting Started
+## Running the notebook
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Using Google Colaboratory, import the Python notebook .ipynb file. Upload the 3 csv files found in the data folder on github into the Colaboratory runtime. They should go into the content folder automatically, but ensure they are there.
+1) sample_submission.csv
+2) test.csv
+3) train.csv
+Next Run All segments (Runtime --> Run All). In the Files slider, you should now see a final submission.csv. That is our predictions on the test data. 
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* scikit-learn - Machine learning framework used for regression in our project
+* Pandas - Data analysis and visualization tool
+* Numpy - Mathematical framework used for linear algebra calculations
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Lee Zhang**
+* **Imran Hasmi**
+* **Jalaj Sharma**
 
 ## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
