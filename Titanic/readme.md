@@ -1,4 +1,4 @@
-#Titanic Survivors - An exercise in machine learning
+# Titanic Survivors - An exercise in machine learning
 ### CS 634 - Prof Monogioudis
 
 ## Overview
