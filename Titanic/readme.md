@@ -2,7 +2,7 @@
 ### CS 634 - Prof Monogioudis
 
 ## Overview
-We will utilize the methods of machine learning to predict survivors of the Titanic disaster based on the passenger features. While the Ames Housing Data was based on linear regression to predict a price value, this exercise is one of categorization, specifically binary classification. This project as an applied exercise in data engineering and data science, specifically utilising the tools of feature selection, feature engineering, and modeling through classification. Refer to the python notebook for the specific analysis.
+We will utilize the methods of machine learning to predict survivors of the Titanic disaster based on the passenger features. While the Ames Housing Data was based on linear regression to predict a price value, this exercise is one of categorization, specifically binary classification. This project is an applied exercise in data engineering and data science, specifically utilising the tools of feature selection, feature engineering, and modeling through classification. Refer to the python notebook for the specific analysis.
 
 ## Running the notebook
 
