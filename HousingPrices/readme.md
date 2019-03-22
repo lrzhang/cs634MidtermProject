@@ -1,12 +1,12 @@
 # Predicting Housing Prices for the Ames Data Set
-# CS 634 - Prof Monogioudis
+### CS 634 - Prof Monogioudis
 
 ## Overview
 We will utilize the methods of machine learning to predict the sale price for houses based on the Ames data set. This project as an applied exercise in data engineering and data science, specifically utilising the tools of feature selection, feature engineering, and modeling through linear regression. While we explore a number of different methodologies, we found the following techniques to have the highest yield. Refer to the python notebook for specific details on our methods. 
 
 ## Running the notebook
 
-Using Google Colaboratory, import the Python notebook .ipynb file. Upload the 3 csv files into the runtime. They should go into the content folder automatically, but ensure they are there.
+Using Google Colaboratory, import the Python notebook .ipynb file. Upload the 3 csv files found in the data folder on github into the Colaboratory runtime. They should go into the content folder automatically, but ensure they are there.
 1) sample_submission.csv
 2) test.csv
 3) train.csv
