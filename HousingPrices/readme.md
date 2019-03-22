@@ -2,7 +2,7 @@
 ### CS 634 - Prof Monogioudis
 
 ## Overview
-We will utilize the methods of machine learning to predict the sale price for houses based on the Ames data set. This project as an applied exercise in data engineering and data science, specifically utilising the tools of feature selection, feature engineering, and modeling through linear regression. While we explore a number of different methodologies, we found the following techniques to have the highest yield. Refer to the python notebook for specific details on our methods. 
+We will utilize the methods of machine learning to predict the sale price for houses based on the Ames data set. This project as an applied exercise in data engineering and data science, specifically utilising the tools of feature selection, feature engineering, and modeling through linear regression. While we explore a number of different methodologies, we found feature engineering and stacking of regression models to have the higest impact. Refer to the python notebook for specific details on our methods. 
 
 ## Running the notebook
 
@@ -22,7 +22,7 @@ Next Run All segments (Runtime --> Run All). In the Files slider, you should now
 ## Authors
 
 * **Lee Zhang**
-* **Imran Hasmi**
+* **Imran Hashmi**
 * **Jalaj Sharma**
 
 ## Acknowledgments
