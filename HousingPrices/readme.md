@@ -16,7 +16,9 @@ Using Google Colaboratory, import the Python notebook .ipynb file. Next Run All 
 * Keras and Tensorflow - Machine learning framework used for CNN in our project
 * Matlabplot - Data analysis and visualization tool
 * Numpy - Mathematical framework used for linear algebra calculations
-* Seaborn - 
+* Pandas - Data analysis and visualization tool
+* Numpy - Mathematical framework used for linear algebra calculations
+* Seaborn - Data plotting and visualization
 
 
 ## Authors
